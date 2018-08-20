@@ -3,4 +3,4 @@ loop do
   puts "Wingardium Leviosa"
 end
 
-return looping
+looping
